@@ -9,7 +9,7 @@ Soccer clubs spent $7.35 billion on player acquisitions in 2019 alone. Accuratel
   - Market value
   - Transfer fee
 - Provide a user-friendly interface for predictions
-  - Used Flask to create an API that connects our Python scripts with Data & Results to the front-end.
+  - Used Flask to create an API that connects our Python scripts with Data & Results to the front end.
 
 ## Data Sources
 Merged player, club, and transfer data from five major European leagues (2015–2021)
